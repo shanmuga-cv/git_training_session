@@ -1,4 +1,8 @@
 week;shipped_count;country;box_type
 2018-W50;32123472;GB;classic_box
+<<<<<<< HEAD
 2018-W52;33111232;TR;classic_box
+=======
+2018-w51;DE;my_secret_box
+>>>>>>> c0b96f63575e0e36b3e2d1cd2ecd7ddd9cfc8091
 2018-W51;1;DE;my_secret_box
